@@ -17,7 +17,7 @@ https://twitter.com/joranhonig
 
 #### Security firms:
 
-The following firms are either capable of offering Cairo security reviews or tasked with developing the security ecosystem. Don't hesitate to reach out to any of them on their respective sites with requests of that nature.
+The following firms are either capable of offering Cairo security reviews or tasked with developing the security ecosystem. Don't hesitate to reach out to any of them on their respective sites with requests of that nature. You'll learn a lot reading through their audit reports as well.
 
 - [ConsenSys Diligence](https://consensys.net/diligence/)
 - [Nethermind](https://nethermind.io/)
@@ -25,4 +25,9 @@ The following firms are either capable of offering Cairo security reviews or tas
 - [Trail of Bits](https://www.trailofbits.com/)
 
 #### Communities:
+
+[SkidsDAO](https://discord.gg/RzVHVMRnRb)
+[Starknet official discord](https://discord.gg/gNVCMwBR3n)
+
+#### Curated audit reports:
 
